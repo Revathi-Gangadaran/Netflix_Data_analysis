@@ -1,4 +1,7 @@
-# Netflix_Data_analysis
+ 
+<img src="netflix.gif" alt="Demo GIF" width="1300" height = "200"/>
+
+# Data Analysis
 Data Analysis using Postgres SQL
 
 ## Overview
