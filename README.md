@@ -22,8 +22,6 @@ The analysis is structured around answering the following key objectives:
 4.  Ratings and Audience Targeting: Examine how content ratings (e.g., PG, R) and audience demographics (e.g., kids vs. adult content) shape the Netflix library.
 
 
-5.  Content Lifecycle: Explore how long content tends to stay on the platform, including trends in content removal and whether certain types of shows/movies have longer lifespans.
-
 ## Dataset
 The dataset for this project is accessed from Kaggle dataset:
 - [Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
