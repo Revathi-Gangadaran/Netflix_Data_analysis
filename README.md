@@ -1,7 +1,7 @@
  
 <img src="netflix.gif" alt="Demo GIF" width="1300" height = "200"/>
 
-# 🎬 Netflix Content Analysis with PostgreSQL
+# 🎬 Netflix Data Analysis with PostgreSQL
 
 ## 📌 Project Overview
 This project explores Netflix's movie and TV show catalog using PostgreSQL to answer business-focused questions through SQL analysis. The objective is to demonstrate practical data analysis skills by transforming raw data into actionable insights using SQL queries, aggregation, window functions, and data manipulation techniques.
